@@ -1,20 +1,6 @@
-class Solution(object):
-    def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
-        if len(s) != len(t):
-            return False
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
         
-        counts, countt = {}, {}
-        for i in range (len(s)):
-            counts[s[i]] = 1 + counts.get(s[i], 0)
-            countt[t[i]] = 1 + countt.get(t[i], 0)
+        return counter(s) == counter(t)
 
-        for c in counts:
-            if counts[c] != countt.get(c, 0):
-                return False
-
-        return True
+        
