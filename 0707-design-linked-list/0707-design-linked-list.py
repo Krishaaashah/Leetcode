@@ -1,53 +1,75 @@
 class ListNode:
-    def __init__(self, val=0, next=None):
+    def __init__(self, val = 0, next = None):
         self.val = val
         self.next = next
 
-class MyLinkedList:
+class MyLinkedList(object):
 
     def __init__(self):
         self.head = ListNode(0)
-        self.size = 0  
-
-    def get(self, index: int) -> int:
-        if index < 0  or index >= self.size:
-            return -1
-        curr = self.head.next
-        for _ in range(index):
-            curr = curr.next
-        return curr.val
-
+        self.size = 0
         
 
-    def addAtHead(self, val: int) -> None:
+    def get(self, index):
+        """
+        :type index: int
+        :rtype: int
+        """
+
+        if index < 0 or index >= self.size:
+            return -1
+        pred = self.head.next
+        for _ in range(index):
+            pred = pred.next
+        return pred.val
+  
+
+    def addAtHead(self, val):
+        """
+        :type val: int
+        :rtype: None
+        """
         self.addAtIndex(0,val)
         
 
-    def addAtTail(self, val: int) -> None:
+    def addAtTail(self, val):
+        """
+        :type val: int
+        :rtype: None
+        """
         self.addAtIndex(self.size,val)
         
 
-    def addAtIndex(self, index: int, val: int) -> None:
+    def addAtIndex(self, index, val):
+        """
+        :type index: int
+        :type val: int
+        :rtype: None
+        """
         if index > self.size:
             return
-        if index <0:
+
+        if index<0:
             index = 0
+
         self.size += 1
         pred = self.head
 
         for _ in range(index):
             pred = pred.next
-        
-        to_add = ListNode(val)
-        to_add.next = pred.next
-        pred.next = to_add
+        addnode = ListNode(val)
+        addnode.next = pred.next
+        pred.next = addnode
         
 
-    def deleteAtIndex(self, index: int) -> None:
+    def deleteAtIndex(self, index):
+        """
+        :type index: int
+        :rtype: None
+        """
         if index < 0 or index >= self.size:
             return
-        
-        self.size -= 1
+        self.size -= 1        
         pred = self.head
 
         for _ in range(index):
