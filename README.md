@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Krishaaashah/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/Krishaaashah/Leetcode/tree/master/0705-design-hashset) |
+| [1472-design-browser-history](https://github.com/Krishaaashah/Leetcode/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Krishaaashah/Leetcode/tree/master/0705-design-hashset) |
+| [1472-design-browser-history](https://github.com/Krishaaashah/Leetcode/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Krishaaashah/Leetcode/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Krishaaashah/Leetcode/tree/master/0705-design-hashset) |
+| [1472-design-browser-history](https://github.com/Krishaaashah/Leetcode/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Krishaaashah/Leetcode/tree/master/0705-design-hashset) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Krishaaashah/Leetcode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Krishaaashah/Leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Krishaaashah/Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
