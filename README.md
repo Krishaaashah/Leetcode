@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Krishaaashah/Leetcode/tree/master/0015-3sum) |
 | [0705-design-hashset](https://github.com/Krishaaashah/Leetcode/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/Krishaaashah/Leetcode/tree/master/1472-design-browser-history) |
 ## Hash Table
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Krishaaashah/Leetcode/tree/master/1472-design-browser-history) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Krishaaashah/Leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Krishaaashah/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
