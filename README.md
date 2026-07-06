@@ -71,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishaaashah/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishaaashah/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krishaaashah/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Union-Find
