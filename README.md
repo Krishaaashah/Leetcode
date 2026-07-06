@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Krishaaashah/Leetcode/tree/master/0015-3sum) |
 | [0705-design-hashset](https://github.com/Krishaaashah/Leetcode/tree/master/0705-design-hashset) |
+| [1288-remove-covered-intervals](https://github.com/Krishaaashah/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1472-design-browser-history](https://github.com/Krishaaashah/Leetcode/tree/master/1472-design-browser-history) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishaaashah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Krishaaashah/Leetcode/tree/master/0015-3sum) |
+| [1288-remove-covered-intervals](https://github.com/Krishaaashah/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishaaashah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
