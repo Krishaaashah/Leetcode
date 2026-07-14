@@ -116,5 +116,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Krishaaashah/Leetcode/tree/master/0069-sqrtx) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Krishaaashah/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Krishaaashah/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
