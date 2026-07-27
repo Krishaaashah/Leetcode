@@ -146,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishaaashah/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1587-bank-account-summary-ii](https://github.com/Krishaaashah/Leetcode/tree/master/1587-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
