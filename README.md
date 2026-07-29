@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Krishaaashah/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Krishaaashah/Leetcode/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/Krishaaashah/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Krishaaashah/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishaaashah/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Krishaaashah/Leetcode/tree/master/0704-binary-search) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Krishaaashah/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Krishaaashah/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
