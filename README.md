@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Krishaaashah/Leetcode/tree/master/1603-design-parking-system) |
+| [1929-concatenation-of-array](https://github.com/Krishaaashah/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishaaashah/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/Krishaaashah/Leetcode/tree/master/1472-design-browser-history) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishaaashah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1929-concatenation-of-array](https://github.com/Krishaaashah/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishaaashah/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
