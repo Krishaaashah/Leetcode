@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Krishaaashah/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Krishaaashah/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishaaashah/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Krishaaashah/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Krishaaashah/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Krishaaashah/Leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Krishaaashah/Leetcode/tree/master/0724-find-pivot-index) |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Krishaaashah/Leetcode/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Krishaaashah/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
