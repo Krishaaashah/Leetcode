@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Krishaaashah/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishaaashah/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/Krishaaashah/Leetcode/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/Krishaaashah/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Krishaaashah/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishaaashah/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Krishaaashah/Leetcode/tree/master/3731-find-missing-elements) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Krishaaashah/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Krishaaashah/Leetcode/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/Krishaaashah/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Krishaaashah/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
