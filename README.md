@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Krishaaashah/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krishaaashah/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishaaashah/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Krishaaashah/Leetcode/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/Krishaaashah/Leetcode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Krishaaashah/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Krishaaashah/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Krishaaashah/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krishaaashah/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishaaashah/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Krishaaashah/Leetcode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishaaashah/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Krishaaashah/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Krishaaashah/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Krishaaashah/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Krishaaashah/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Krishaaashah/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Krishaaashah/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Krishaaashah/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Krishaaashah/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Krishaaashah/Leetcode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Krishaaashah/Leetcode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
