@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Krishaaashah/Leetcode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/Krishaaashah/Leetcode/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Krishaaashah/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Counting
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Krishaaashah/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Krishaaashah/Leetcode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/Krishaaashah/Leetcode/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishaaashah/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Krishaaashah/Leetcode/tree/master/2235-add-two-integers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Krishaaashah/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Krishaaashah/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Krishaaashah/Leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Krishaaashah/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Krishaaashah/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Krishaaashah/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
