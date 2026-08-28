@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Krishaaashah/Leetcode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/Krishaaashah/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Krishaaashah/Leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Krishaaashah/Leetcode/tree/master/0412-fizz-buzz) |
 | [1103-distribute-candies-to-people](https://github.com/Krishaaashah/Leetcode/tree/master/1103-distribute-candies-to-people) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Krishaaashah/Leetcode/tree/master/0049-group-anagrams) |
+| [0171-excel-sheet-column-number](https://github.com/Krishaaashah/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Krishaaashah/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Krishaaashah/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Krishaaashah/Leetcode/tree/master/0412-fizz-buzz) |
