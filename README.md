@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishaaashah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Krishaaashah/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishaaashah/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Krishaaashah/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishaaashah/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishaaashah/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krishaaashah/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Krishaaashah/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishaaashah/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishaaashah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Krishaaashah/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishaaashah/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Krishaaashah/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Krishaaashah/Leetcode/tree/master/3731-find-missing-elements) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishaaashah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Krishaaashah/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Tree
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Krishaaashah/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Krishaaashah/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Number Theory
 |  |
