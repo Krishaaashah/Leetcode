@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Krishaaashah/Leetcode/tree/master/1603-design-parking-system) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Krishaaashah/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Array
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Krishaaashah/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3871-count-commas-in-range-ii](https://github.com/Krishaaashah/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Krishaaashah/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Krishaaashah/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Krishaaashah/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Krishaaashah/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Krishaaashah/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Krishaaashah/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
