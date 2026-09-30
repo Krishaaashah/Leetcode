@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishaaashah/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krishaaashah/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1472-design-browser-history](https://github.com/Krishaaashah/Leetcode/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krishaaashah/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Doubly-Linked List
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Krishaaashah/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Krishaaashah/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Krishaaashah/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krishaaashah/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krishaaashah/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Krishaaashah/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishaaashah/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krishaaashah/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krishaaashah/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Krishaaashah/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
